@@ -22,7 +22,7 @@ bot_your_reality = [
     "Just move your hand - write the way into his heart!",
     "But in this world of infinite choices.",
     "What will it take just to find that special day?",
-    "What will it take just to find that special day?",
+    "What will it take just to find... that special day?",
 
     "Have I found everybody a fun assignment to do today?",
     "When you're here, everything that we do is fun for them anyway.",
